@@ -68,37 +68,45 @@ To make the feature accessible, I also updated the **official PSLab documentatio
 ## Work 
 
 ### Mobile App 
-| Pull Request |
-| --------- |
-| [#2729](https://github.com/fossasia/pslab-app/pull/2729) |
-| [#2752](https://github.com/fossasia/pslab-app/pull/2752) |
-| [#2776](https://github.com/fossasia/pslab-app/pull/2776) |
-| [#2763](https://github.com/fossasia/pslab-app/pull/2763) |
-| [#2791](https://github.com/fossasia/pslab-app/pull/2791) |
-| [#2762](https://github.com/fossasia/pslab-app/pull/2762) |
-| [#2801](https://github.com/fossasia/pslab-app/pull/2801) |
-| [#2807](https://github.com/fossasia/pslab-app/pull/2807) |
+| Pull Request | Status |
+| ------------ | ------ |
+| [#2729](https://github.com/fossasia/pslab-app/pull/2729) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2752](https://github.com/fossasia/pslab-app/pull/2752) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2776](https://github.com/fossasia/pslab-app/pull/2776) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2763](https://github.com/fossasia/pslab-app/pull/2763) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2791](https://github.com/fossasia/pslab-app/pull/2791) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2762](https://github.com/fossasia/pslab-app/pull/2762) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2801](https://github.com/fossasia/pslab-app/pull/2801) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#2807](https://github.com/fossasia/pslab-app/pull/2807) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
 ### Python Library
-| Pull Request |
-| --------- |
-| [#255](https://github.com/fossasia/pslab-python/pull/255) |
-| [#256](https://github.com/fossasia/pslab-python/pull/256) |
+| Pull Request | Status |
+| ------------ | ------ |
+| [#255](https://github.com/fossasia/pslab-python/pull/255) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+| [#256](https://github.com/fossasia/pslab-python/pull/256) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
 ### Documentation
-| Pull Request |
-| --------- |
-| [#187](https://github.com/fossasia/pslab-documentation/pull/187) |
+| Pull Request | Status |
+| ------------ | ------ |
+| [#187](https://github.com/fossasia/pslab-documentation/pull/187) | ![Merged](https://img.shields.io/badge/Merged-6f42c1?style=flat-square&logo=github&logoColor=white) |
+
+
 
 
 ---
-### ScreenShots
-| ![](screenshots/img_robotic_arm.png) | ![](screenshots/img_robotic_arm_controls.png) | ![](screenshots/summary.png) |
-|--------------------------------------|-----------------------------------------------|--------------------------------|
+### Screenshots
+
+| **Robotic Arm Screen** | **Control Panel** |
+|------------------------|-------------------|
+| ![](screenshots/img_robotic_arm.png) | ![](screenshots/img_robotic_arm_controls.png) |
+
+| **Playback Summary** | **Connection Guide** |
+|----------------------|----------------------|
+| ![](screenshots/summary.png) | ![](screenshots/robotic_arm_guide.png) |
 
 
 
@@ -111,7 +119,7 @@ To make the feature accessible, I also updated the **official PSLab documentatio
 
 ---
 ## Future Work
-I am looking forward to continuing my contributions to this project by adding new features, improving existing functionality, and addressing any issues that arise.
+I am looking forward to continuing my contributions to PSLab by adding new features, improving existing functionality, and addressing any issues that arise.
 
 ## Acknowledgements
 Special thanks to:
