@@ -25,7 +25,10 @@ On the **App side**, I designed and implemented a new control screen that allows
 First, there’s a **manual mode** with circular sliders for each servo, providing smooth, fine-tuned control over movements.  
 Second, there’s an **automated timeline mode**, where users can visually create and edit sequences of movements that the arm will execute automatically.  
 
+To support these modes, I also set up the **hardware communication protocol** between the PSLab device and the PSLab app, enabling reliable **PWM signal** generation for accurate and synchronized control.  
+
 At the end of each automated run, the app now presents a **playback summary**.  
+ 
 This summary includes:
   - A detailed **PWM graph** visualizing the entire motion sequence
   - Key statistics such as maximum, minimum, and average **angle** reached during the run
